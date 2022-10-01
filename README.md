@@ -1,4 +1,4 @@
-# golang-app-chapter01
+# <img align="left" width="50" alt="Web Server" src="https://cdn-icons-png.flaticon.com/128/2333/2333057.png"> golang-app-chapter01
 
 ## This project is just simple http web server
 
