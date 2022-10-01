@@ -1,4 +1,4 @@
-# golang-app-ch01
+# golang-app-chapter01
 
 ## This project is just simple http web server
 
