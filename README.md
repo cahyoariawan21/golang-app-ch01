@@ -6,6 +6,8 @@
 - Contain Function that route to /hello then print hello user!
 - Contain Function Form that route to /form then fill the response value from form.html submited.
 
+![structure](https://user-images.githubusercontent.com/38809579/193408477-6f444877-dc4c-471a-8471-c673d9d74589.png)
+
 **_Attachment :_**
 ![homepage](https://user-images.githubusercontent.com/38809579/193402916-a58c027b-9189-488d-986d-24c5d16eaeaa.png)
 
