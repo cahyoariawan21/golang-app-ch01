@@ -1,6 +1,6 @@
 # <img align="left" width="40" alt="Web Server" src="https://cdn-icons-png.flaticon.com/128/2333/2333057.png"> golang-app-chapter01
 
-## This project is just simple http web server
+### This project is just simple http web server
 
 - Create simple web server basic http request.
 - Contain Function that route to /hello then print hello user!
